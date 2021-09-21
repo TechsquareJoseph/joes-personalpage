@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page
+## Welcome to my GitHub.io Page
 
 My name is Joseph, and I work for [Techsquare](http://www.techsquare.com/) at the [Massachusetts Green High Performance Computing Center](https://www.mghpcc.org/).
 
