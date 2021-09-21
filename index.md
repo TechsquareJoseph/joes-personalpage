@@ -32,7 +32,7 @@ if type(fib()) == types.GeneratorType:
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more scripts see my [Python Scripts GitHub Repo](https://github.com/TechsquareJoseph/python-scripts.git).
 
 ### Jekyll Themes
 
