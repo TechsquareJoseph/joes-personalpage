@@ -8,7 +8,7 @@ I got this job during the summer of 2021, and started that September.
 
 Currently I am working through a list of training exercises to make sure I am up to par with what will be required of me in the job, and building this website is one of those items!
 
-### A code sample of a Fibonacci number generator:
+### A code sample of a Fibonacci number generator that I wrote:
 
 ```markdown
 # Define the fibonacci function
