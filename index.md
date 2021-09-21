@@ -2,7 +2,7 @@
 
 My name is Joseph, and I work for [Techsquare](http://www.techsquare.com/) at the [Massachusetts Green High Performance Computing Center](https://www.mghpcc.org/).
 
-I got this job during the summer of 2021, and started that September.
+I got this job during the summer of 2021, and started this September.
 
 ### What I'm Doing
 
@@ -34,10 +34,4 @@ if type(fib()) == types.GeneratorType:
 
 For more scripts see my [Python Scripts GitHub Repo](https://github.com/TechsquareJoseph/python-scripts.git).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TechsquareJoseph/joes-personalpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Have a nice day!
