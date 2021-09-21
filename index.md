@@ -2,11 +2,11 @@
 
 My name is Joseph, and I work for [Techsquare](http://www.techsquare.com/) at the [Massachusetts Green High Performance Computing Center](https://www.mghpcc.org/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I got this job during the summer of 2021, and started that September.
 
-### Markdown
+### What I'm Doing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently I am working through a list of training exercises to make sure I am up to par with what will be required of me in the job, and building this website is one of those items!
 
 ```markdown
 Syntax highlighted code block
