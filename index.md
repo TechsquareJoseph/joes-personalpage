@@ -8,22 +8,28 @@ I got this job during the summer of 2021, and started that September.
 
 Currently I am working through a list of training exercises to make sure I am up to par with what will be required of me in the job, and building this website is one of those items!
 
+### A code sample of a Fibonacci number generator:
+
 ```markdown
-Syntax highlighted code block
+# Define the fibonacci function
+def fib():
+    a, b = 1, 1
+    while 1:
+        yield a
+        a, b = b, a + b
 
-# Header 1
-## Header 2
-### Header 3
+# Use the fibonacci function to print out 10 digits in the sequence
+import types
+if type(fib()) == types.GeneratorType:
+    print("Good, The fib function is a generator.")
 
-- Bulleted
-- List
+    counter = 0
+    for n in fib():
+        print(n)
+        counter += 1
+        if counter == 10:
+            break
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
