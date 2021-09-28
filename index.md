@@ -1,12 +1,11 @@
+<pre><code>                                       
  _    _        _                               _ 
 | |  | |      | |                             | |
 | |  | |  ___ | |  ___  ___   _ __ ___    ___ | |
 | |/\| | / _ \| | / __|/ _ \ | '_ ` _ \  / _ \| |
 \  /\  /|  __/| || (__| (_) || | | | | ||  __/|_|
- \/  \/  \___||_| \___|\___/ |_| |_| |_| \___|(_)
-                                                 
-                                                 
-
+ \/  \/  \___||_| \___|\___/ |_| |_| |_| \___|(_)                                                
+</code></pre>
 My name is Joseph, and I work for [Techsquare](http://www.techsquare.com/) at the [Massachusetts Green High Performance Computing Center](https://www.mghpcc.org/).
 
 I got this job during the summer of 2021, and started this September.
