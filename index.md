@@ -1,4 +1,11 @@
-## Welcome to my GitHub.io Page
+ _    _        _                               _ 
+| |  | |      | |                             | |
+| |  | |  ___ | |  ___  ___   _ __ ___    ___ | |
+| |/\| | / _ \| | / __|/ _ \ | '_ ` _ \  / _ \| |
+\  /\  /|  __/| || (__| (_) || | | | | ||  __/|_|
+ \/  \/  \___||_| \___|\___/ |_| |_| |_| \___|(_)
+                                                 
+                                                 
 
 My name is Joseph, and I work for [Techsquare](http://www.techsquare.com/) at the [Massachusetts Green High Performance Computing Center](https://www.mghpcc.org/).
 
